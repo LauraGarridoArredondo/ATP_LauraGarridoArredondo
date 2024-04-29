@@ -1,0 +1,18 @@
+{
+    "ranking": 8,
+    "nombreCompleto": "PRUEBA",
+    "pais": "Alemania",
+    "fechaNacimiento": "1980-02-05",
+    "edad": 24,
+    "altura": 180,
+    "peso": 80,
+    "debutProfesional": "2012-07-01",
+    "mano": "DIESTRO",
+    "reves": "UNAMANO",
+    "entrenador": "PRUEBA",
+    "dineroGanado": 10000000,
+    "mejorRanking": 1,
+    "numVictorias": 10,
+    "numDerrotas": 4,
+    "puntos": 16
+}
